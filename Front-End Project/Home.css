@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-image: url(Bg_Images/Home_img.jpeg);
+  background-size: 100%;
+  color: white;
+}
+h4{
+  position: relative;
+  top: 40px;
+}
+
+.nav-item{
+  position: relative;
+  left: 10px;
+}
+
+.d-flex{
+  position: relative;
+  left: 700px;
+}
+
+.card {
+  background-color: aqua;
+  margin-bottom: 20px;
+}
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-title{
+  color: black;
+}
+
+.card-text{
+  color: black;
+}

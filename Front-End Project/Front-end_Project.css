@@ -1,0 +1,15 @@
+.navbar-brand{
+  flex: 1;
+  text-align: center;
+}
+body{
+  text-align: center;
+  background-image: url(Bg_Images/1_img.jpeg);
+  background-size: 50%;
+}
+
+.Sign_in{
+  color: white;
+  position: relative;
+  top: 100px;
+}
