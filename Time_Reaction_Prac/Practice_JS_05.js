@@ -1,20 +1,3 @@
-/*
-Part 1
--================ Have a box on the screen -================
--================ When box is clicked, it disappears -================
--================ When the box is clicked, it reappears after 3 seconds (may need research) -================
--================ Measure time between shape appearing and being clicked -================
--================ Output that time -================
-
-Part 2
- -================Random delay time -================
--================ Random location on screen-================
-- --================Random shape--================
-  -================Height and width-================
-  --================Curvature-================
-- --================Random colour--================
-
-*/
 window.onload = appear();
 
 var clicked;
